@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svnroot/wordlist/!svn/ver/86/trunk/agid
+END
+extra-words
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/wordlist/!svn/ver/3/trunk/agid/extra-words
+END
+dontuse
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svnroot/wordlist/!svn/ver/3/trunk/agid/dontuse
+END
+variant-wroot.tab
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/wordlist/!svn/ver/84/trunk/agid/variant-wroot.tab
+END
+make-all
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svnroot/wordlist/!svn/ver/3/trunk/agid/make-all
+END
+variant_0.lst
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/wordlist/!svn/ver/86/trunk/agid/variant_0.lst
+END
+variant_1.lst
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/wordlist/!svn/ver/3/trunk/agid/variant_1.lst
+END
+prefixes
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svnroot/wordlist/!svn/ver/3/trunk/agid/prefixes
+END
+variant_2.lst
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/wordlist/!svn/ver/86/trunk/agid/variant_2.lst
+END
+irregular
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svnroot/wordlist/!svn/ver/83/trunk/agid/irregular
+END
+suffixes
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svnroot/wordlist/!svn/ver/3/trunk/agid/suffixes
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svnroot/wordlist/!svn/ver/83/trunk/agid/README
+END
+.keep
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svnroot/wordlist/!svn/ver/3/trunk/agid/.keep
+END
+make-infl
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svnroot/wordlist/!svn/ver/3/trunk/agid/make-infl
+END
+variant
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svnroot/wordlist/!svn/ver/3/trunk/agid/variant
+END
+infl.txt
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svnroot/wordlist/!svn/ver/83/trunk/agid/infl.txt
+END
+find-var
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svnroot/wordlist/!svn/ver/3/trunk/agid/find-var
+END
+variant.tab
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svnroot/wordlist/!svn/ver/84/trunk/agid/variant.tab
+END
+reverse
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svnroot/wordlist/!svn/ver/19/trunk/agid/reverse
+END

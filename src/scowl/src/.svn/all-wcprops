@@ -1,0 +1,299 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svnroot/wordlist/!svn/ver/93/trunk/scowl/src
+END
+make-ukacd-deaccented.lst
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/wordlist/!svn/ver/13/trunk/scowl/src/make-ukacd-deaccented.lst
+END
+make-variant.lst
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/wordlist/!svn/ver/89/trunk/scowl/src/make-variant.lst
+END
+split-words-deps
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/wordlist/!svn/ver/2/trunk/scowl/src/split-words-deps
+END
+make-ukacd-squashed-accented.lst
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/wordlist/!svn/ver/13/trunk/scowl/src/make-ukacd-squashed-accented.lst
+END
+make-all.lst
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/wordlist/!svn/ver/35/trunk/scowl/src/make-all.lst
+END
+get-level
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/wordlist/!svn/ver/2/trunk/scowl/src/get-level
+END
+setup-env
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/wordlist/!svn/ver/2/trunk/scowl/src/setup-env
+END
+count
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/wordlist/!svn/ver/92/trunk/scowl/src/count
+END
+get-all-below
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/wordlist/!svn/ver/2/trunk/scowl/src/get-all-below
+END
+proc-census
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/wordlist/!svn/ver/70/trunk/scowl/src/proc-census
+END
+make-words-deps
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/wordlist/!svn/ver/67/trunk/scowl/src/make-words-deps
+END
+make-accent-lists
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/wordlist/!svn/ver/13/trunk/scowl/src/make-accent-lists
+END
+clean-alan-list
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/wordlist/!svn/ver/2/trunk/scowl/src/clean-alan-list
+END
+deaccent.hh
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/wordlist/!svn/ver/2/trunk/scowl/src/deaccent.hh
+END
+add-other-spellings
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/wordlist/!svn/ver/89/trunk/scowl/src/add-other-spellings
+END
+make-frequent.lst
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/wordlist/!svn/ver/2/trunk/scowl/src/make-frequent.lst
+END
+list-classes
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/wordlist/!svn/ver/2/trunk/scowl/src/list-classes
+END
+add-accents
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/wordlist/!svn/ver/2/trunk/scowl/src/add-accents
+END
+make-upper.lst
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/wordlist/!svn/ver/35/trunk/scowl/src/make-upper.lst
+END
+make-ispell-all.lst
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/wordlist/!svn/ver/2/trunk/scowl/src/make-ispell-all.lst
+END
+add-affixes
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/wordlist/!svn/ver/87/trunk/scowl/src/add-affixes
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/wordlist/!svn/ver/2/trunk/scowl/src/Makefile
+END
+proc-uk-freq-class
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/wordlist/!svn/ver/2/trunk/scowl/src/proc-uk-freq-class
+END
+make-dist
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/wordlist/!svn/ver/2/trunk/scowl/src/make-dist
+END
+make-possessive.lst
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/wordlist/!svn/ver/35/trunk/scowl/src/make-possessive.lst
+END
+list-combin
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/wordlist/!svn/ver/2/trunk/scowl/src/list-combin
+END
+make-contractions.lst
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/wordlist/!svn/ver/2/trunk/scowl/src/make-contractions.lst
+END
+make-proper-names.lst
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/wordlist/!svn/ver/2/trunk/scowl/src/make-proper-names.lst
+END
+filter
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/wordlist/!svn/ver/2/trunk/scowl/src/filter
+END
+make-symbolic-deps
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/wordlist/!svn/ver/2/trunk/scowl/src/make-symbolic-deps
+END
+make-list
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/wordlist/!svn/ver/2/trunk/scowl/src/make-list
+END
+rand-samples
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/wordlist/!svn/ver/92/trunk/scowl/src/rand-samples
+END
+split-words
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/wordlist/!svn/ver/2/trunk/scowl/src/split-words
+END
+make-abbreviations.lst.pre
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/wordlist/!svn/ver/35/trunk/scowl/src/make-abbreviations.lst.pre
+END
+deaccent.cc
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/wordlist/!svn/ver/2/trunk/scowl/src/deaccent.cc
+END
+add-other-forms
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/wordlist/!svn/ver/87/trunk/scowl/src/add-other-forms
+END
+make-call-list
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/wordlist/!svn/ver/2/trunk/scowl/src/make-call-list
+END
+make-known-upper.lst
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/wordlist/!svn/ver/2/trunk/scowl/src/make-known-upper.lst
+END
+find-ss
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svnroot/wordlist/!svn/ver/2/trunk/scowl/src/find-ss
+END
+make-final
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/wordlist/!svn/ver/2/trunk/scowl/src/make-final
+END
+make-abbreviations.lst
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/wordlist/!svn/ver/2/trunk/scowl/src/make-abbreviations.lst
+END
+find-accented.cc
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/wordlist/!svn/ver/2/trunk/scowl/src/find-accented.cc
+END
+make-README
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/wordlist/!svn/ver/93/trunk/scowl/src/make-README
+END
+list-spellings
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/wordlist/!svn/ver/2/trunk/scowl/src/list-spellings
+END
+make-words
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/wordlist/!svn/ver/35/trunk/scowl/src/make-words
+END
+proc-alt12dicts
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/wordlist/!svn/ver/13/trunk/scowl/src/proc-alt12dicts
+END
+rand-sample.pl
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/wordlist/!svn/ver/2/trunk/scowl/src/rand-sample.pl
+END
+remove-plurals
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/wordlist/!svn/ver/2/trunk/scowl/src/remove-plurals
+END
+make-ukacd-squashed.lst
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/wordlist/!svn/ver/2/trunk/scowl/src/make-ukacd-squashed.lst
+END

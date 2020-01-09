@@ -1,0 +1,32 @@
+#!/usr/bin/perl
+
+use strict;
+use warnings;
+use IO::Handle;
+
+use varcon qw(%map);
+
+open F, "abbc.tab";
+
+my %F;
+
+foreach my $s (sort keys %map) {
+    $F{"${s}0"} = new IO::Handle;
+    open $F{"${s}0"}, "| sort -u > $map{$s}.lst";
+    foreach my $v (1..3) {
+        $F{"$s$v"} = new IO::Handle;
+        open $F{"$s$v"}, "| sort -u > $map{$s}-v$v.lst";
+    }
+}
+
+open F, "varcon.txt";
+while (<F>) {
+    my %r = varcon::flatten(varcon::readline($_));
+    foreach my $k (sort keys %r) {
+        print "!$k: @{$r{$k}}\n" if (@{$r{$k}} > 1);
+        foreach (@{$r{$k}}) {
+            print "Bad key: $k\n" unless defined $F{$k};
+            $F{$k}->print("$_\n");
+        }
+    }
+}
