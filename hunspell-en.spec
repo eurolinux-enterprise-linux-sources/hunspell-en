@@ -2,9 +2,9 @@ Name: hunspell-en
 Summary: English hunspell dictionaries
 %define upstreamid 20121024
 Version: 0.%{upstreamid}
-Release: 3%{?dist}
-#svn co https://wordlist.svn.sourceforge.net/svnroot/wordlist/trunk wordlist
-Source0: wordlist-%{upstreamid}.tar.bz2
+Release: 5%{?dist}
+#svn export https://wordlist.svn.sourceforge.net/svnroot/wordlist/trunk wordlist
+Source0: wordlist-%{upstreamid}.tar.xz
 Source1: http://en-gb.pyxidium.co.uk/dictionary/en_GB.zip
 #See http://mxr.mozilla.org/mozilla/source/extensions/spellcheck/locales/en-US/hunspell/mozilla_words.diff?raw=1
 Patch0: mozilla_words.patch
@@ -120,6 +120,12 @@ rm -rf $RPM_BUILD_ROOT
 %{_datadir}/myspell/en_GB.*
 
 %changelog
+* Wed Jan 08 2014 Caolán McNamara <caolanm@redhat.com> - 0.20121024-5
+- Resolves: rhbz#1048864 accidentally included prebuilt binary
+
+* Fri Dec 27 2013 Daniel Mach <dmach@redhat.com> - 0.20121024-4
+- Mass rebuild 2013-12-27
+
 * Thu Feb 14 2013 Fedora Release Engineering <rel-eng@lists.fedoraproject.org> - 0.20121024-3
 - Rebuilt for https://fedoraproject.org/wiki/Fedora_19_Mass_Rebuild
 
@@ -191,7 +197,7 @@ rm -rf $RPM_BUILD_ROOT
 * Mon Jun 14 2010 Caolán McNamara <caolanm@redhat.com> - 0.20100322-4
 - Resolves: rhbz#603773 allow just non-typographical apostrophes
 
-* Sat Jun 06 2010 Caolán McNamara <caolanm@redhat.com> - 0.20100322-3
+* Sun Jun 06 2010 Caolán McNamara <caolanm@redhat.com> - 0.20100322-3
 - Resolves: rhbz#600860 generate a higher level en-US dict
 
 * Thu Apr 15 2010 Caolán McNamara <caolanm@redhat.com> - 0.20100322-2
@@ -243,7 +249,7 @@ rm -rf $RPM_BUILD_ROOT
 * Tue Dec 02 2008 Caolán McNamara <caolanm@redhat.com> - 0.20081202-1
 - latest version
 
-* Sun Nov 29 2008 Caolán McNamara <caolanm@redhat.com> - 0.20081129-1
+* Sat Nov 29 2008 Caolán McNamara <caolanm@redhat.com> - 0.20081129-1
 - mozilla blog ... webmistresses signature range integrated
 
 * Thu Nov 27 2008 Caolán McNamara <caolanm@redhat.com> - 0.20081127-2
