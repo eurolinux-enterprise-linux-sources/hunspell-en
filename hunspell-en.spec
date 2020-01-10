@@ -2,7 +2,7 @@ Name: hunspell-en
 Summary: English hunspell dictionaries
 %define upstreamid 20121024
 Version: 0.%{upstreamid}
-Release: 5%{?dist}
+Release: 6%{?dist}
 #svn export https://wordlist.svn.sourceforge.net/svnroot/wordlist/trunk wordlist
 Source0: wordlist-%{upstreamid}.tar.xz
 Source1: http://en-gb.pyxidium.co.uk/dictionary/en_GB.zip
@@ -87,7 +87,7 @@ cd scowl/speller
 cp -p en_*.dic en_*.aff $RPM_BUILD_ROOT/%{_datadir}/myspell
 
 pushd $RPM_BUILD_ROOT/%{_datadir}/myspell/
-en_GB_aliases="en_AG en_AU en_BS en_BW en_BZ en_DK en_GH en_HK en_IE en_IN en_JM en_MW en_NA en_NG en_NZ en_SG en_TT en_ZA en-ZM en_ZW"
+en_GB_aliases="en_AG en_AU en_BS en_BW en_BZ en_DK en_GH en_HK en_IE en_IN en_JM en_MW en_NA en_NG en_NZ en_SG en_TT en_ZA en_ZM en_ZW"
 for lang in $en_GB_aliases; do
 	ln -s en_GB.aff $lang.aff
 	ln -s en_GB.dic $lang.dic
@@ -120,6 +120,9 @@ rm -rf $RPM_BUILD_ROOT
 %{_datadir}/myspell/en_GB.*
 
 %changelog
+* Mon Feb 20 2017 Caolán McNamara <caolanm@redhat.com> - 0.20121024-6
+- Resolves: rhbz#1376031 Zambia english is named with dash instead of underscore
+
 * Wed Jan 08 2014 Caolán McNamara <caolanm@redhat.com> - 0.20121024-5
 - Resolves: rhbz#1048864 accidentally included prebuilt binary
 
